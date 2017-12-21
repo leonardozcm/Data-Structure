@@ -6,11 +6,21 @@
 
 #IncludeRegexTransform: 
 
-/home/leonardo/CLionProjects/data_structure/main.c
-printhello.h
-/home/leonardo/CLionProjects/data_structure/printhello.h
+/home/leonardo/CLionProjects/data_structure/MinSubsequenceSum.h
 
-/home/leonardo/CLionProjects/data_structure/printhello.h
+/home/leonardo/CLionProjects/data_structure/autotesttools.h
+stdlib.h
+-
+
+/home/leonardo/CLionProjects/data_structure/main.c
+MinSubsequenceSum.h
+/home/leonardo/CLionProjects/data_structure/MinSubsequenceSum.h
+autotesttools.h
+/home/leonardo/CLionProjects/data_structure/autotesttools.h
 stdio.h
+-
+math.h
+-
+time.h
 -
 

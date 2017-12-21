@@ -78,13 +78,16 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/leonardo/CLionProjects/data_structure/cmake-build-debug/MinSubsequenceSum.h">
+		<Unit filename="/home/leonardo/CLionProjects/data_structure/MinSubsequenceSum.h">
+			<Option target="data_structure"/>
+		</Unit>
+		<Unit filename="/home/leonardo/CLionProjects/data_structure/PureCircle.h">
+			<Option target="data_structure"/>
+		</Unit>
+		<Unit filename="/home/leonardo/CLionProjects/data_structure/autotesttools.h">
 			<Option target="data_structure"/>
 		</Unit>
 		<Unit filename="/home/leonardo/CLionProjects/data_structure/main.c">
-			<Option target="data_structure"/>
-		</Unit>
-		<Unit filename="/home/leonardo/CLionProjects/data_structure/printhello.h">
 			<Option target="data_structure"/>
 		</Unit>
 		<Unit filename="/home/leonardo/CLionProjects/data_structure/CMakeLists.txt">
